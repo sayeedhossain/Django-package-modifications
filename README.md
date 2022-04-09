@@ -1,5 +1,5 @@
 <h4>List are given below:</h4>
-<p>
+
   Authorization
 Auto-Complete
 Awards and Badges
@@ -421,4 +421,4 @@ Webserver
 WebSockets
 Widgets
 WYSIWYG Editors
-  </p>
+ 
